@@ -2,7 +2,6 @@
 layers/
 data/
 tmp/
-*.xml
 *.osm.pbf
 node_modules/
 localconfig.json
